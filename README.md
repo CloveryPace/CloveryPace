@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋. I'm Yu-Hsuan Lee from NTU.
 
 ![](https://raw.githubusercontent.com/CloveryPace/CloveryPace/output/github-contribution-grid-snake.svg)
 
